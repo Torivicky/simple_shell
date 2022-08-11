@@ -101,4 +101,5 @@ Builtins
      unsetenv
      cd
      help
-     historyl
+     history
+Authorsl
