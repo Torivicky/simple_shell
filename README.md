@@ -66,4 +66,7 @@ File Structure
         tokenize - creates an array of tokens from a buffer with a specified delimiter.
 Requirements
 
-simple_shell is designed to run in the Ubuntu 20.04 LTS linux environment and to be compiled using the GNU compiler collection v. gcc with flags-Wall, -Werror, -Wextra, -pedantic, -std=gnu89l
+simple_shell is designed to run in the Ubuntu 20.04 LTS linux environment and to be compiled using the GNU compiler collection v. gcc with flags-Wall, -Werror, -Wextra, -pedantic, -std=gnu89
+Installation
+
+    Clone this repository: git clone https://github.com/Torivicky/simple_shelll
