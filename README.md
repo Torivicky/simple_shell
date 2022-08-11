@@ -102,4 +102,6 @@ Builtins
      cd
      help
      history
-Authorsl
+Authors
+Mercy Boma Naps-nkari
+Uwaezuoke Victoria Chigozriml
