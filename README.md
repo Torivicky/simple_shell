@@ -63,4 +63,7 @@ File Structure
         _strcat - concatenates two strings with a / in the middle
         _strlen - calculates the length of a string
     tokenize.c - tokenizing function
-        tokenize - creates an array of tokens from a buffer with a specified delimiter.l
+        tokenize - creates an array of tokens from a buffer with a specified delimiter.
+Requirements
+
+simple_shell is designed to run in the Ubuntu 20.04 LTS linux environment and to be compiled using the GNU compiler collection v. gcc with flags-Wall, -Werror, -Wextra, -pedantic, -std=gnu89l
