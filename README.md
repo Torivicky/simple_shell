@@ -105,4 +105,5 @@ Builtins
 Authors
 Mercy Boma Naps-nkari
 Uwaezuoke Victoria Chigozrim
-Licensel
+License  
+Sol
